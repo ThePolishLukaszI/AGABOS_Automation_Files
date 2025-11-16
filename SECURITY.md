@@ -21,15 +21,12 @@ If you discover a security concern in this demo repository, please contact:
 **Lukasz Ilnicki**  
 Email: lukasz.ilnicki.12@gmail.com  
 
-> Note: This contact is for demonstration purposes only. No official response or patching will be provided for vulnerabilities in this repository.
-
 ---
 
 ## Security Guidelines
 
 - Do not use this repository for production purposes.  
 - Treat this repository as a **sandbox** for demonstration and learning.  
-- Avoid sharing sensitive information; any real credentials or private data should **never** be included.  
 
 ---
 
