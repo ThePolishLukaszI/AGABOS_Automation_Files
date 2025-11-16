@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Local config/output
+Outputs/
+*.log
+
+# Info like card and passwords
+SensitiveInfo.txt
+
+# Ignore everything in Inputs/
+Inputs/*
+# Except 
+!Inputs/ProductWickesLinks.csv
+
